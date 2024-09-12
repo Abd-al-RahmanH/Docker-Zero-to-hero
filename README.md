@@ -1,9 +1,8 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
+# Docker-Zero-to-hero Course
+
+Welcome to the Docker Zero-to-Hero Course by Abdul Rahman! This course will guide you from Docker basics to advanced concepts, perfect for beginners and those looking to enhance their containerization skills.
 
 ## If you found this repo useful, give it a STAR  
-
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
-
 
 ## What is a container ?
 
